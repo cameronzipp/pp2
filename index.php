@@ -1,3 +1,11 @@
+<?php
+//Cameron Zipp - 1/11/2022
+//index.php - Pair Program 2
+
+//Turn on error reporting -- this is critical!
+ini_set('display_errors', 1);
+error_reporting(E_ALL);
+?>
 <!doctype html>
 <html>
 <head>
