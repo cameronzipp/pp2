@@ -26,6 +26,8 @@ include ('functions.php');
 
     echo "<p>Print Array Numbers</p>";
     printArr($numbers);
+    echo "<p>Print largest number</p>";
+    largest($numbers);
 
     ?>
 

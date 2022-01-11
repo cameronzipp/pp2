@@ -5,3 +5,7 @@
             echo "<p>" . $value . "</p>";
         }
     }
+
+    function largest(array $numbers) {
+        echo max($numbers);
+    }
