@@ -17,5 +17,16 @@ error_reporting(E_ALL);
 </head>
 <body>
     <h2>Pair Program 2</h2>
+
+    <?php
+    echo "<h2>PHP Array Practice</h2>";
+
+    $numbers = array(7, 9, 8, 9, 8, 8, 6);
+
+    echo "<p>Print Array Numbers</p>";
+    printArr($numbers);
+
+    ?>
+
 </body>
 </html>
