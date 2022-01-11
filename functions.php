@@ -9,3 +9,7 @@
     function largest(array $numbers) {
         echo max($numbers);
     }
+
+    function removeDups($numbers) {
+        array_unique($numbers);
+    }

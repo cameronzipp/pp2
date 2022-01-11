@@ -28,6 +28,8 @@ include ('functions.php');
     printArr($numbers);
     echo "<p>Print largest number</p>";
     largest($numbers);
+    echo "<p>Remove duplicates</p>";
+    removeDups($numbers);
 
     ?>
 
